@@ -37,6 +37,24 @@ main {
   border-radius: 8px;
 }
 
+.shrek {
+  font-family: Papyrus, serif;
+  background: #062905;
+  color: #2fa140;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.shrek img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 footer {
   text-align: center;
   padding: 1rem;
